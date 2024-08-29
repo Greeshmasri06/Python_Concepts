@@ -1,4 +1,3 @@
-#Python_Concepts
 Data structures and operators:
 
 'Lists' are mutable, ordered collections that can store a variety of items and allow modifications. They are defined using square brackets [ ], and you can easily add, remove, and access elements.
